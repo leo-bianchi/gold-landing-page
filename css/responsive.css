@@ -102,6 +102,9 @@
     .logo{
         width: 50%;
     }
+    .special_description_img{
+        margin: 0 auto;
+    }
     .header_area.sticky .menu_area .navbar-brand .logo{
         width: 25%;
     }
@@ -159,6 +162,9 @@
     }
     .logo{
         width: 80%;
+    }
+    .special_description_img{
+        margin: 0 auto;
     }
     .header_area.sticky .menu_area .navbar-brand .logo{
         width: 45%;
